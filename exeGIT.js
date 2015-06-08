@@ -18,7 +18,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		
 		if (numeros.indexOf(frase[i]) != -1)   //Si  es troba el caracter a l'array numeros
         {
-            numNumeros++
+            //Augmentem el número
+			numNumeros++
         }
     }
     

@@ -13,6 +13,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
         
         if (alphabet.indexOf(frase[i]) != -1)   //Si  es troba la lletra a l'array alphabet
         {
+			//Augmentem el numero de lletres
             numLletres++
         }
 		

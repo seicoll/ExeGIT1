@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
     {
         //document.write(i + "-" + frase[i] +"<br>");
         
-        if (alphabet.indexOf(frase[i]) != -1)   //Si  es troba la lletra a l'array alphabet
+        if (alphabet.indexOf(frase[i]) != -1)   //Si  es troba el caràcter a l'array alphabet
         {
 			//Augmentem el numero de lletres
             numLletres++
